@@ -10,10 +10,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Что-то");
-            string data = Console.ReadLine();
-            Console.Beep();
-            Console.BackgroundColor = ConsoleColor.DarkMagenta;
             
         }
     }
